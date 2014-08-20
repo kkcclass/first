@@ -20,6 +20,44 @@ img {
   
 }
 
+h1 {
+		
+		
+		text-align: center;
+		 
+}	
+#andrea {
+		font-style: italic;
+		text-align: center;
+		
+		
+}
+
+#relevant {
+
+	background-color: Orange;
+	color: White;
+}
+div {
+
+padding: 20px;
+margin: 30px;
+}
+
+#technology {
+
+background-color: DarkOrchid;
+color: White;
+
+}
+#educ {
+
+	background-color: Green;
+	color: White;
+	margin: 30px;
+
+}
+
 
 
 
