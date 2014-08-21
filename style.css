@@ -68,6 +68,7 @@ margin: 30px;
 #footer {
 	display: block;
 	position: fixed;
+	width: 125%;
 	bottom: 0px;
 	background-color: #00FFFF;
 }
