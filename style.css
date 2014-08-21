@@ -69,6 +69,7 @@ margin: 30px;
 	display: block;
 	position: fixed;
 	width: 200%;
+	text-align: center;
 	bottom: 0px;
 	background-color: #00FFFF;
 }
