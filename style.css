@@ -31,7 +31,7 @@ h1 {
 	font-style: italic;
 	font-size: 200%;
 	color: SteelBlue;
-	margin: 30px;
+	margin-left: 5px;
 	
 }
 
@@ -67,7 +67,6 @@ margin: 30px;
 
 #footer {
 	display: block;
-	width: 100%;
 	position: fixed;
 	bottom: 0px;
 	background-color: #00FFFF;
